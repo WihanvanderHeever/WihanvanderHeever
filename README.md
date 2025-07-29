@@ -1,7 +1,7 @@
 # About Me:
 Data Scientist and Ideation Enthusiast 💡<br><br>
 
-PhD Candidate at the CCDS of Nanyang Technological University and proud member of the [SenticNet](https://sentic.net/) team 
+PhD Candidate at the [CCDS](https://www.ntu.edu.sg/computing) of Nanyang Technological University and proud member of the [SenticNet](https://sentic.net/) team 
 
 
 ## Socials:
