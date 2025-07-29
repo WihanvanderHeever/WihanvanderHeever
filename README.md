@@ -19,7 +19,7 @@ Data Scientist and Ideation Enthusiast 💡<br><br>
 
 
 ## ._______________________________________________________.
-###"It’s easy to lie with statistics. It’s hard to tell the truth without statistics."
+### "It’s easy to lie with statistics. It’s hard to tell the truth without statistics."
 – Andrejs Dunkels
 
 
