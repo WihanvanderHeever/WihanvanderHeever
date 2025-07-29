@@ -1,6 +1,8 @@
 # 💫 About Me:
 Data Scientist and Ideation Enthusiast 💡<br><br>
 
+PhD Candidate at the CCDS of Nanyang Technological University and proud member of the [SenticNet]([https://www.genome.gov/](https://sentic.net/)) team
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wihanvdheever) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wihanvdheever@gmail.com) 
