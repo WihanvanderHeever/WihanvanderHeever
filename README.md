@@ -15,10 +15,10 @@ Data Scientist and Ideation Enthusiast 💡<br><br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=WihanvanderHeever&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### Quote to live by
-# "
-It’s easy to lie with statistics. It’s hard to tell the truth without statistics.
-# "
+
+
+
+### "It’s easy to lie with statistics. It’s hard to tell the truth without statistics.
 ## – Andrejs Dunkels
 
 
