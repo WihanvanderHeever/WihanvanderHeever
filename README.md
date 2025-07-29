@@ -1,7 +1,11 @@
 # About Me:
 Data Scientist and Ideation Enthusiast 💡<br><br>
 
-PhD Candidate at the [CCDS](https://www.ntu.edu.sg/computing) of Nanyang Technological University and proud member of the [SenticNet](https://sentic.net/) team 
+I specialize in bringing elegance and efficiency to complex systems, whether that means automating reports across industries, integrating LLMs into structured data environments, or developing modular AI-driven dashboards from scratch.
+
+My work sits at the intersection of statistical rigour, practical innovation, and human-centered design. I’m passionate about building tools that empower others to think clearly, act decisively, and scale sustainably. Currently, I’m exploring the frontiers of sentiment analysis and greenwashing detection while leading AI adoption at [Novus3](https://novus3.co.za/).
+
+PhD Candidate in Explainable AI en sentiment analysis in ESG at the [CCDS](https://www.ntu.edu.sg/computing) of Nanyang Technological University and proud member of the [SenticNet](https://sentic.net/) team.
 
 
 ## Socials:
