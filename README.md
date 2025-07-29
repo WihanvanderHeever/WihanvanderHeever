@@ -18,8 +18,6 @@ PhD Candidate in Explainable AI en sentiment analysis in ESG at the [CCDS](https
 ![](https://nirzak-streak-stats.vercel.app/?user=WihanvanderHeever&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WihanvanderHeever&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=WihanvanderHeever&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
